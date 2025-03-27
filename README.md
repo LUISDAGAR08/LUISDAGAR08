@@ -8,7 +8,9 @@
   </ul>
 </div>
 
+---
 ### I-am-Daniel
+-----------------------
 💻 I am a self taught Full Stack Developer and a Machine Learning Developer
 📝 I have a strong interest in Data Science and Artificial Intelligence
 🔭 Working on Deep Learning & Machine Learning
@@ -18,6 +20,8 @@
 💖 In a complicated relationship with Neural Networks
 🎵 Love metal
 <br>
+---
+
 </div>
 
 <h4>Tecnologías:</h4>
