@@ -19,7 +19,6 @@
 🚩 Interested in Full Stack Machine Learning Application development
 💖 In a complicated relationship with Neural Networks
 🎵 Love metal
-<br>
 ---
 
 </div>
