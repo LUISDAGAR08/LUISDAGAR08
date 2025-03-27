@@ -7,9 +7,9 @@
     <summary><h1 style="display: inline-block">Hey there, I'm Daniel👋</h1></summary>
   </ul>
 </div>
-
+<hr>
 ---
-### I-am-Daniel
+I-am-Daniel
 -----------------------
 💻 I am a self taught Full Stack Developer and a Machine Learning Developer
 📝 I have a strong interest in Data Science and Artificial Intelligence
@@ -20,7 +20,7 @@
 💖 In a complicated relationship with Neural Networks
 🎵 Love metal
 ---
-
+<hr>
 </div>
 
 <h4>Tecnologías:</h4>
