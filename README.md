@@ -8,7 +8,7 @@
   </ul>
 </div>
 <hr>
----
+```
 I-am-Daniel
 -----------------------
 💻 I am a self taught Full Stack Developer and a Machine Learning Developer
@@ -19,7 +19,8 @@ I-am-Daniel
 🚩 Interested in Full Stack Machine Learning Application development
 💖 In a complicated relationship with Neural Networks
 🎵 Love metal
----
+
+```
 <hr>
 </div>
 
