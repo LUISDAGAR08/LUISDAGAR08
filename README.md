@@ -8,10 +8,9 @@
   </ul>
 </div>
 
-<hr>
 ```
 I-am-Daniel
------------------------
+-------------------------
 💻 I am a self taught Full Stack Developer and a Machine Learning Developer
 📝 I have a strong interest in Data Science and Artificial Intelligence
 🔭 Working on Deep Learning & Machine Learning
@@ -23,9 +22,7 @@ I-am-Daniel
 ```
 <hr>
 
-</div>
-
-<h4>Tecnologías:</h4>
+### Tecnologías:
 
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
