@@ -7,6 +7,7 @@
     <summary><h1 style="display: inline-block">Hey there, I'm Daniel👋</h1></summary>
   </ul>
 </div>
+
 <hr>
 ```
 I-am-Daniel
@@ -19,9 +20,9 @@ I-am-Daniel
 🚩 Interested in Full Stack Machine Learning Application development
 💖 In a complicated relationship with Neural Networks
 🎵 Love metal
-
 ```
 <hr>
+
 </div>
 
 <h4>Tecnologías:</h4>
