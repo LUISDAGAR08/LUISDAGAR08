@@ -70,8 +70,8 @@ I-am-Daniel
 
 <p align="center">
 <a href="https://github.com/LUISDAGAR08">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LUISDAGAR08&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LUISDAGAR08&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="160px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LUISDAGAR08&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="160px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LUISDAGAR08&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
